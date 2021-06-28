@@ -1,0 +1,25 @@
+#toplevel_page_emailblast-menu i, #toplevel_page_Reports-menu i, #toplevel_page_Transaction_logs i, #toplevel_page_my-menu i {
+    position: absolute;
+    left: 10px;
+    font-size: 17px;
+    color: rgba(240,246,252,.6)
+}
+#adminmenu li.current i {
+	color: #fff;
+}
+#toplevel_page_my-menu ul.wp-submenu.wp-submenu-wrap {
+    padding-left: 25px;
+}
+#toplevel_page_my-menu ul.wp-submenu.wp-submenu-wrap li a i {
+    display: none;
+}
+.cancelpopup .modal-dialog {
+    top: 30%;
+}
+.cancelpopup .cancle_the_user{
+	background: #2271b1;
+}
+span.select2.select2-container {
+    width: 100% !important;
+}
+
